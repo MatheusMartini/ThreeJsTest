@@ -1,7 +1,7 @@
 import css from '../styles/Home.module.css'
 import {Canvas} from '@react-three/fiber'
 
-import Floor from '@/components/floor'
+import Floor from '@/components/Floor'
 import Box from '@/components/Box'
 import Controls from '@/components/OrbitControls'
 import Draggable from '@/components/Draggable'
